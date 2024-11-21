@@ -12,7 +12,7 @@
 
 <body>
 
-    <form class="form" action="">
+    <form class="form-signin" action="logar.php" method="post">
         <div class="card">
             <div class="card-top">
                 <img class="imagemLogin" src="imagem/emoji.png" alt="">
@@ -31,7 +31,7 @@
             </div>
 
             <div class="card-group">
-                <label><input type="checkbox">Lembre-me</label>
+                <label><input type="checkbox" name="lembrar"> Lembre-me</label>
             </div>
 
             <div class="card-group btn">
