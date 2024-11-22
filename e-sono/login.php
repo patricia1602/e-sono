@@ -7,12 +7,12 @@
     <title>Login</title>
 
     <link rel="stylesheet" href="css/style.css">
-
+    <link rel="stylesheet" href="">
 </head>
 
 <body>
 
-    <form class="form-signin" action="logar.php" method="post">
+    <form class="form-signin" action="logar.php" method="POST">
         <div class="card">
             <div class="card-top">
                 <img class="imagemLogin" src="imagem/emoji.png" alt="">
